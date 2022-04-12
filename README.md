@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subashish</h1>
-<h3 align="center">Future Web Developer from India</h3>
+<h3 align="center">Future Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srox24&label=Profile%20views&color=0e75b6&style=flat" alt="srox24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srox24" alt="srox24" /></a> </p>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Android Developement**
 
 - 📫 How to reach me **srox390@gmail.com**
 
