@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srox24" alt="srox24" /></a> </p>
 
-- 🌱 I’m currently learning **Android Developement**
+- 🌱 I’m currently learning **Web Developement**
 
 - 📫 How to reach me **srox390@gmail.com**
 
